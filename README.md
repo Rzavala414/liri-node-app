@@ -22,7 +22,17 @@ SPOTIFY_SECRET=your-spotify-secret
 3. Open a new terminal and navigate to the `liri.js` file. Run this command: `node liri.js spotify-that` and put whatever song you want after to get information returned to you about it. By default if no input is made for a song you'll be returned info about the song "Sign of The Times" by Harry Styles. Alternatively if you run the command: `node liri.js movie-this` and then your movie you'll get a callback with info about that movie. There is no defalult return if the movie field is left empty. Lastly if you run the command: `node liri.js do-what-it-says` you'll get a call back for information on the Back Street Boy's song "I Want It That Way." Refer to the images bellow as a guidance for how each command and call back should look like.
 
 <!-- add demo images here -->
+Spotify Demo
+![spotify demo](./images/spotify-that-demo.png)
 
+Spotify Default output
+![spotify default demo](./images/spotify-that-demo.png)
+
+Movie Demo
+![Movie demo](./images/movie-this-demo.png)
+
+Do What it says demo
+![Do what it says demo demo](./images/do-what-it-says-demo.png)
 
 
 <!-- add demo images here -->
