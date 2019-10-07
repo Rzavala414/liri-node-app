@@ -26,3 +26,17 @@ SPOTIFY_SECRET=your-spotify-secret
 
 
 <!-- add demo images here -->
+
+### Technologies Used In Creating This Application
+    *Node.js
+    *Spotify API
+    *Axios npm package
+    *node-spotify-api npm package
+    *OMBD API
+    *fs Package
+    *momentum npm package
+    *dotenv npm package
+
+### Who Maintains And Contributes To The Project
+
+The maintenance and development of this project is held solely responsible by "Rogelio Zavala"
